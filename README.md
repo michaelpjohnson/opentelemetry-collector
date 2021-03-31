@@ -17,6 +17,7 @@
   <a href="https://circleci.com/gh/open-telemetry/opentelemetry-collector">
     <img alt="Build Status" src="https://img.shields.io/circleci/build/github/open-telemetry/opentelemetry-collector?style=for-the-badge">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fopentelemetry-collector?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fopentelemetry-collector.svg?type=shield"/></a>
   <a href="https://codecov.io/gh/open-telemetry/opentelemetry-collector/branch/master/">
     <img alt="Codecov Status" src="https://img.shields.io/codecov/c/github/open-telemetry/opentelemetry-collector?style=for-the-badge">
   </a>
@@ -73,3 +74,7 @@ Maintainers ([@open-telemetry/collector-maintainers](https://github.com/orgs/ope
 - [Tigran Najaryan](https://github.com/tigrannajaryan), Splunk
 
 Learn more about roles in the [community repository](https://github.com/open-telemetry/community/blob/master/community-membership.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fopentelemetry-collector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fopentelemetry-collector?ref=badge_large)
